@@ -1,6 +1,6 @@
 <?php
 if(isset($_POST['email'])) {
-    $email_to = "srivas.divyansh22@gmail.com";
+    $email_to = "navneetshreyaofficial@gmail.com";
     $email_subject = "New notification";
     $first_name = $_POST['name']; // required
     $email_from = $_POST['email']; // required
